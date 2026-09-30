@@ -1,0 +1,17 @@
+{
+  "status": "Live",
+  "thumbnailUrl": "https://truecauses.org/og-image.png",
+  "bornAt": "True Causes",
+  "geography": "Global",
+  "politicalEntity": "",
+  "type": "Web App",
+  "needs": [
+    {"need": "Pilot partners: municipalities, unions, schools, and organizations"}
+  ],
+  "categories": [
+    {"category": "Civic Engagement"},
+    {"category": "Deliberation"},
+    {"category": "Democracy"},
+    {"category": "Decision Making"}
+  ]
+}
